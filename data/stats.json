@@ -1,0 +1,39 @@
+{
+  "trustStrip": [
+    "Zero Fees",
+    "Daily Payouts",
+    "Full Training Included"
+  ],
+  "comparison": [
+    {
+      "label": "Traditional Job",
+      "value": 50000,
+      "note": "$50K/year"
+    },
+    {
+      "label": "Other MLMs",
+      "value": 80000,
+      "note": "$30K\u2013$80K/year (variable)"
+    },
+    {
+      "label": "Moonshine Partner",
+      "value": 250000,
+      "note": "$60K\u2013$250K/year (unlimited)"
+    }
+  ],
+  "requirements": {
+    "qualify": [
+      "Age 18+ (21+ in some states)",
+      "Willingness to learn",
+      "Basic tech skills",
+      "Hustle mentality",
+      "Legal to work in US/Canada"
+    ],
+    "disqualifiers": [
+      "Expecting instant riches without work",
+      "Unwilling to follow proven system",
+      "No network or prospecting skills",
+      "Looking for guaranteed salary"
+    ]
+  }
+}

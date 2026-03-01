@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Neo-brutalist tokens */
+:root{
+  --ink:#0b1220;
+  --paper:#ffffff;
+  --muted:#f4f6fb;
+  --navy:#1e40af;
+  --green:#10b981;
+  --gold:#f59e0b;
+
+  --border: 3px;
+  --radius: 18px;
+  --shadow-x: 8px;
+  --shadow-y: 8px;
+  --shadow: var(--shadow-x) var(--shadow-y) 0 rgba(11,18,32,.18);
+}
+
+html, body{
+  height: 100%;
+}
+
+body{
+  color: var(--ink);
+  background: var(--paper);
+  text-rendering: geometricPrecision;
+}
+
+::selection{
+  background: var(--gold);
+  color: var(--ink);
+}
+
+/* brutal grid background helper */
+.bg-grid{
+  background-image:
+    linear-gradient(to right, rgba(11,18,32,.08) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(11,18,32,.08) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+/* focus ring */
+*:focus-visible{
+  outline: 3px solid var(--gold);
+  outline-offset: 3px;
+}
+
+/* reduced motion */
+@media (prefers-reduced-motion: reduce){
+  *{
+    scroll-behavior: auto !important;
+    transition: none !important;
+    animation: none !important;
+  }
+}

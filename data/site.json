@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "name": "PartnerHub",
+    "wordmark": "PartnerHub",
+    "tagline": "Recruit \u2022 Train \u2022 Earn",
+    "positioning": "Join the Moonshine Capital partner network and earn daily commissions by referring qualified funding clients.",
+    "contactEmail": "partners@moonshine.capital",
+    "locale": "US/CA"
+  },
+  "style": {
+    "mode": "Neo-Brutalist",
+    "colors": {
+      "navy": "#1e40af",
+      "green": "#10b981",
+      "gold": "#f59e0b",
+      "ink": "#0b1220",
+      "paper": "#ffffff",
+      "muted": "#f4f6fb"
+    }
+  },
+  "nav": [
+    {
+      "label": "Earnings",
+      "href": "/#calculator"
+    },
+    {
+      "label": "Tiers",
+      "href": "/#tiers"
+    },
+    {
+      "label": "How it works",
+      "href": "/#how"
+    },
+    {
+      "label": "Stories",
+      "href": "/#stories"
+    },
+    {
+      "label": "FAQ",
+      "href": "/faq"
+    }
+  ],
+  "ctas": {
+    "primary": {
+      "label": "Get The Partner Links",
+      "href": "https://moonshine-capital.vercel.app/"
+    },
+    "apply": {
+      "label": "Start Your Application",
+      "href": "/apply#form"
+    },
+    "secondary": {
+      "label": "Watch 2-Min Explainer",
+      "href": "/#explainer"
+    }
+  },
+  "seo": {
+    "defaultTitle": "PartnerHub | Earn Daily Commissions as a Funding Partner",
+    "titleTemplate": "%s | PartnerHub",
+    "defaultDescription": "Join Moonshine Capital's partner network. Earn $500-$5K per deal with zero upfront costs. Free training, daily payouts, unlimited earning potential. Apply now.",
+    "siteUrl": "https://partners.distilledfunding.com",
+    "ogImage": "/img/og-partnerhub.png",
+    "keywords": [
+      "funding partner program",
+      "ISO affiliate commissions",
+      "daily commissions",
+      "business funding referrals",
+      "merchant cash advance partners"
+    ]
+  },
+  "integrations": {
+    "webhookEnvVar": "PARTNER_WEBHOOK_URL",
+    "calendlyUrl": "https://calendly.com/",
+    "analytics": {
+      "provider": "ga4",
+      "envVar": "NEXT_PUBLIC_GA_ID",
+      "enabledByDefault": false
+    }
+  },
+  "legalLinks": [
+    {
+      "label": "Legal",
+      "href": "/legal"
+    },
+    {
+      "label": "Privacy",
+      "href": "/legal#privacy"
+    },
+    {
+      "label": "Terms",
+      "href": "/legal#terms"
+    }
+  ],
+  "footer": {
+    "trust": [
+      "500+ Active Partners (example)",
+      "$2M+ Commissions Paid (example)",
+      "SSL secured",
+      "Training included"
+    ],
+    "disclaimer": "Earnings examples are illustrative and not guaranteed. Your results depend on effort, experience, and market conditions."
+  }
+}

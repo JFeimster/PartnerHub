@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Jordan M.",
+    "location": "Tampa, FL",
+    "monthlyEarnings": "$8,400/mo",
+    "quote": "I went from posting links to running a repeatable weekly pipeline. The training made it simple.",
+    "type": "video",
+    "thumbnail": "/img/testimonial-1.svg"
+  },
+  {
+    "name": "Alyssa K.",
+    "location": "Phoenix, AZ",
+    "monthlyEarnings": "$12,150/mo",
+    "quote": "I quit my 9\u20135 after 6 months. What I like is the speed\u2014qualify, submit, follow up, get paid.",
+    "type": "video",
+    "thumbnail": "/img/testimonial-2.svg"
+  },
+  {
+    "name": "Chris D.",
+    "location": "Toronto, ON",
+    "monthlyEarnings": "$6,300/mo",
+    "quote": "Part-time evenings and weekends. One funded deal changed my month.",
+    "type": "written",
+    "thumbnail": "/img/testimonial-3.svg"
+  },
+  {
+    "name": "Monica S.",
+    "location": "Atlanta, GA",
+    "monthlyEarnings": "$18,900/mo",
+    "quote": "The scripts + follow-up system are the difference. It\u2019s not luck\u2014it\u2019s process.",
+    "type": "video",
+    "thumbnail": "/img/testimonial-4.svg"
+  },
+  {
+    "name": "DeShawn P.",
+    "location": "Newark, NJ",
+    "monthlyEarnings": "$9,700/mo",
+    "quote": "Agency Builder tier helped me train two friends. Team momentum is real when you have a playbook.",
+    "type": "written",
+    "thumbnail": "/img/testimonial-5.svg"
+  },
+  {
+    "name": "Mia R.",
+    "location": "Denver, CO",
+    "monthlyEarnings": "$5,200/mo",
+    "quote": "I started with one referral a week. Now I have a simple routine and predictable results.",
+    "type": "written",
+    "thumbnail": "/img/testimonial-6.svg"
+  }
+]

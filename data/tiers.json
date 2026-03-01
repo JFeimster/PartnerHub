@@ -1,0 +1,32 @@
+[
+  {
+    "id": "affiliate",
+    "title": "Affiliate Partner",
+    "commission": "10\u201315%",
+    "time": "Part-time (5\u201310 hrs/week)",
+    "bestFor": "Side hustle, passive income seekers",
+    "whatYouDo": "Share referral links",
+    "ctaLabel": "Become Affiliate",
+    "featured": false
+  },
+  {
+    "id": "iso",
+    "title": "Independent Agent (ISO)",
+    "commission": "20\u201340%",
+    "time": "Full-time or serious part-time",
+    "bestFor": "Sales professionals, entrepreneurs",
+    "whatYouDo": "Source clients, guide applications",
+    "ctaLabel": "Apply as Agent",
+    "featured": true
+  },
+  {
+    "id": "agency",
+    "title": "Agency Builder",
+    "commission": "Your deals + 5\u201310% team override",
+    "time": "Full-time business",
+    "bestFor": "Team builders, MLM veterans",
+    "whatYouDo": "Build and train your own agency",
+    "ctaLabel": "Build Agency",
+    "featured": false
+  }
+]
